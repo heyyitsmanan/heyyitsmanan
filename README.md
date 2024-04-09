@@ -1,3 +1,3 @@
 # Manan Ahuja
 
-This is the repo which I have created for myself.
+This is the file which I have created for myself.
